@@ -11,7 +11,7 @@ library(tidyr)
 # 1. Read Excel file
 # ------------------------------------------------------------
 
-file_path <- "your file path/Supplementary Information - S2 - Data.xlsx"
+file_path <- "your file path/Supplementary Data 1.xlsx"
 
 output_folder <- dirname(file_path)
 
