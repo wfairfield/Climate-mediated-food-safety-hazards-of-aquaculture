@@ -1,0 +1,5 @@
+"exclusion_category","description","number_of_study_species_rows_excluded"
+"Production method: wild-caught","Rows where the study-specific production method was listed as wild-caught.",27
+"Production method: not specified, exclude","Rows where production method was not specified for taxa requiring study-level production review.",304
+"Broad wild-caught-only group","Rows matching commodity/species groups considered primarily wild-caught and not aquaculture-relevant.",953
+"Species-level wild-caught exclusion within retained commodity group","Rows matching specific taxa judged to be primarily wild-caught within otherwise retained commodity groups.",350

@@ -1,0 +1,382 @@
+"commodity_group","region","number_of_studies"
+"Clam/Cockle","China",35
+"Oyster","China",28
+"Cyprinids (Carp/Minnows)","China",23
+"Crab","China",22
+"Shrimp/Prawn","China",21
+"Mussel","China",19
+"Scallop","China",19
+"Seabass/Sea Bream","China",18
+"Whelk/Abalone/Other Gastropods","China",17
+"Seabass/Sea Bream","Mixed",15
+"Clam/Cockle","India",14
+"Other or Not Otherwise Grouped Aquatic Foods","China",14
+"Salmon","Mixed",14
+"Mussel","Mixed",13
+"Mussel","Spain",13
+"Mussel","Italy",12
+"Lobster/Crayfish","China",11
+"Seabass/Sea Bream","Italy",10
+"Clam/Cockle","Spain",9
+"Mullet","Italy",9
+"Shrimp/Prawn","Mixed",9
+"Oyster","South Korea",8
+"Perch/Sunfish","China",8
+"Salmon","Spain",8
+"Salmon","USA",8
+"Snakehead","China",8
+"Tilapia","China",8
+"Clam/Cockle","Italy",7
+"Clam/Cockle","South Korea",7
+"Mullet","China",7
+"Seabass/Sea Bream","Spain",7
+"Tilapia","Mixed",7
+"Catfish","USA",6
+"Mussel","India",6
+"Mussel","South Korea",6
+"Shrimp/Prawn","Malaysia",6
+"Catfish","China",5
+"Catfish","Malaysia",5
+"Catfish","Mixed",5
+"Clam/Cockle","Mixed",5
+"Croaker/Drum","China",5
+"Oyster","India",5
+"Oyster","Mixed",5
+"Pomfret","China",5
+"Scallop","Mixed",5
+"Seabass/Sea Bream","India",5
+"Seabass/Sea Bream","Malaysia",5
+"Tilapia","USA",5
+"Clam/Cockle","Japan",4
+"Clam/Cockle","USA",4
+"Crab","India",4
+"Cyprinids (Carp/Minnows)","India",4
+"Flatfish","South Korea",4
+"Mullet","India",4
+"Mussel","France",4
+"Mussel","Germany",4
+"Mussel","USA",4
+"Other or Not Otherwise Grouped Aquatic Foods","Mixed",4
+"Oyster","France",4
+"Oyster","Italy",4
+"Oyster","Japan",4
+"Salmon","China",4
+"Salmon","Italy",4
+"Scallop","France",4
+"Scallop","USA",4
+"Shrimp/Prawn","South Korea",4
+"Catfish","South Korea",3
+"Clam/Cockle","France",3
+"Clam/Cockle","Malaysia",3
+"Clam/Cockle","Thailand",3
+"Eel","China",3
+"Lobster/Crayfish","USA",3
+"Mullet","Iran",3
+"Mussel","Thailand",3
+"Other or Not Otherwise Grouped Aquatic Foods","India",3
+"Other or Not Otherwise Grouped Aquatic Foods","Italy",3
+"Other or Not Otherwise Grouped Aquatic Foods","South Korea",3
+"Salmon","France",3
+"Salmon","Japan",3
+"Sea cucumber/Urchin","China",3
+"Sea cucumber/Urchin","France",3
+"Sea cucumber/Urchin","South Korea",3
+"Seabass/Sea Bream","France",3
+"Seabass/Sea Bream","South Korea",3
+"Seabass/Sea Bream","USA",3
+"Shrimp/Prawn","India",3
+"Snapper","China",3
+"Tilapia","Malaysia",3
+"Tilapia","Taiwan",3
+"Whelk/Abalone/Other Gastropods","Italy",3
+"Whelk/Abalone/Other Gastropods","South Korea",3
+"Catfish","Brazil",2
+"Catfish","Germany",2
+"Catfish","India",2
+"Catfish","Spain",2
+"Catfish","Vietnam",2
+"Clam/Cockle","Nigeria",2
+"Clam/Cockle","Portugal",2
+"Clam/Cockle","Taiwan",2
+"Clam/Cockle","Tunisia",2
+"Cod","Italy",2
+"Cod","Spain",2
+"Crab","Iran",2
+"Crab","South Korea",2
+"Cyprinids (Carp/Minnows)","Iran",2
+"Cyprinids (Carp/Minnows)","Serbia",2
+"Cyprinids (Carp/Minnows)","Spain",2
+"Cyprinids (Carp/Minnows)","Vietnam",2
+"Flatfish","Mixed",2
+"Lobster/Crayfish","India",2
+"Mullet","Brazil",2
+"Mullet","Greece",2
+"Mullet","South Korea",2
+"Mullet","Spain",2
+"Mussel","Adriatic Sea",2
+"Mussel","Greece",2
+"Mussel","Portugal",2
+"Mussel","Turkey",2
+"Other or Not Otherwise Grouped Aquatic Foods","Iceland",2
+"Other or Not Otherwise Grouped Aquatic Foods","Spain",2
+"Other or Not Otherwise Grouped Aquatic Foods","USA",2
+"Oyster","Australia",2
+"Oyster","Mauritius",2
+"Perch/Sunfish","Spain",2
+"Perch/Sunfish","USA",2
+"Salmon","Brazil",2
+"Salmon","Germany",2
+"Salmon","Iran",2
+"Salmon","Norway",2
+"Salmon","South Korea",2
+"Salmon","Turkey",2
+"Scallop","Italy",2
+"Scallop","Japan",2
+"Scallop","South Korea",2
+"Sea cucumber/Urchin","Italy",2
+"Seabass/Sea Bream","Portugal",2
+"Seabass/Sea Bream","Taiwan",2
+"Seabass/Sea Bream","Tunisia",2
+"Seabass/Sea Bream","Turkey",2
+"Seaweed/Algae","China",2
+"Seaweed/Algae","Japan",2
+"Shrimp/Prawn","USA",2
+"Snakehead","Vietnam",2
+"Snapper","Malaysia",2
+"Tilapia","Egypt",2
+"Tilapia","India",2
+"Trout","Germany",2
+"Trout","USA",2
+"Whelk/Abalone/Other Gastropods","France",2
+"Whelk/Abalone/Other Gastropods","Mixed",2
+"Whelk/Abalone/Other Gastropods","Nigeria",2
+"Whelk/Abalone/Other Gastropods","Spain",2
+"Catfish","Bangladesh",1
+"Catfish","Cambodia",1
+"Catfish","France",1
+"Catfish","Ghana",1
+"Catfish","Gulf of Thailand",1
+"Catfish","Italy",1
+"Catfish","Netherlands",1
+"Catfish","Nigeria",1
+"Catfish","Romania",1
+"Catfish","Serbia",1
+"Catfish","Switzerland",1
+"Catfish","Tanzania",1
+"Catfish","Turkey",1
+"Clam/Cockle","Australia",1
+"Clam/Cockle","Brazil",1
+"Clam/Cockle","Canada",1
+"Clam/Cockle","Germany",1
+"Clam/Cockle","Hungary",1
+"Clam/Cockle","Oman",1
+"Clam/Cockle","Romania",1
+"Clam/Cockle","Singapore",1
+"Clam/Cockle","Sweden",1
+"Clam/Cockle","Vietnam",1
+"Cod","Mixed",1
+"Cod","Netherlands",1
+"Cod","Sweden",1
+"Cod","USA",1
+"Crab","Bangladesh",1
+"Crab","Brazil",1
+"Crab","Egypt",1
+"Crab","Indonesia",1
+"Crab","Kuwait",1
+"Crab","Mixed",1
+"Crab","Nigeria",1
+"Crab","Oman",1
+"Crab","Persian Gulf",1
+"Crab","USA",1
+"Croaker/Drum","Brazil",1
+"Croaker/Drum","France",1
+"Croaker/Drum","Mauritius",1
+"Croaker/Drum","Mediterranean Sea",1
+"Cyprinids (Carp/Minnows)","Brazil",1
+"Cyprinids (Carp/Minnows)","Germany",1
+"Cyprinids (Carp/Minnows)","Indonesia",1
+"Cyprinids (Carp/Minnows)","Iraq",1
+"Cyprinids (Carp/Minnows)","Kazakhstan",1
+"Cyprinids (Carp/Minnows)","Malaysia",1
+"Cyprinids (Carp/Minnows)","Mixed",1
+"Cyprinids (Carp/Minnows)","Qatar",1
+"Cyprinids (Carp/Minnows)","Romania",1
+"Cyprinids (Carp/Minnows)","South Korea",1
+"Eel","Italy",1
+"Eel","Slovakia",1
+"Eel","South Korea",1
+"Flatfish","China",1
+"Flatfish","Spain",1
+"Jack/Scad","Brazil",1
+"Jack/Scad","Italy",1
+"Jack/Scad","Japan",1
+"Jack/Scad","Malaysia",1
+"Jack/Scad","Mediterranean Sea",1
+"Jack/Scad","Oman",1
+"Jack/Scad","South Africa",1
+"Jack/Scad","South Korea",1
+"Lobster/Crayfish","Bangladesh",1
+"Lobster/Crayfish","France",1
+"Lobster/Crayfish","Germany",1
+"Lobster/Crayfish","Italy",1
+"Lobster/Crayfish","Mixed",1
+"Lobster/Crayfish","Persian Gulf",1
+"Lobster/Crayfish","Poland",1
+"Lobster/Crayfish","Spain",1
+"Lobster/Crayfish","Sweden",1
+"Mullet","Egypt",1
+"Mullet","Kuwait",1
+"Mullet","Mixed",1
+"Mullet","Oman",1
+"Mullet","Portugal",1
+"Mullet","Senegal",1
+"Mullet","Taiwan",1
+"Mullet","Turkey",1
+"Mullet","USA",1
+"Mussel","Algeria",1
+"Mussel","Australia",1
+"Mussel","Brazil",1
+"Mussel","Czech Republic",1
+"Mussel","Ecuador",1
+"Mussel","Egypt",1
+"Mussel","Hungary",1
+"Mussel","Indonesia",1
+"Mussel","Malaysia",1
+"Mussel","Menorca",1
+"Mussel","Netherlands",1
+"Mussel","Oman",1
+"Mussel","Philippines",1
+"Mussel","Poland",1
+"Mussel","Romania",1
+"Mussel","Scotland",1
+"Mussel","Sea of Sardinia",1
+"Mussel","Senegal",1
+"Mussel","Singapore",1
+"Mussel","South Africa",1
+"Mussel","Sweden",1
+"Mussel","Tunisia",1
+"Other or Not Otherwise Grouped Aquatic Foods","Iran",1
+"Other or Not Otherwise Grouped Aquatic Foods","Japan",1
+"Other or Not Otherwise Grouped Aquatic Foods","Kazakhstan",1
+"Other or Not Otherwise Grouped Aquatic Foods","Mexico",1
+"Other or Not Otherwise Grouped Aquatic Foods","Philippines",1
+"Other or Not Otherwise Grouped Aquatic Foods","Romania",1
+"Other or Not Otherwise Grouped Aquatic Foods","Serbia",1
+"Other or Not Otherwise Grouped Aquatic Foods","Sweden",1
+"Other or Not Otherwise Grouped Aquatic Foods","Taiwan",1
+"Oyster","Brazil",1
+"Oyster","Canada",1
+"Oyster","Ecuador",1
+"Oyster","Egypt",1
+"Oyster","Germany",1
+"Oyster","Hungary",1
+"Oyster","Iran",1
+"Oyster","Mexico",1
+"Oyster","Netherlands",1
+"Oyster","New Zealand",1
+"Oyster","Nigeria",1
+"Oyster","Norway",1
+"Oyster","Oman",1
+"Oyster","Portugal",1
+"Oyster","Sea of Sardinia",1
+"Oyster","Senegal",1
+"Oyster","Spain",1
+"Oyster","Sweden",1
+"Oyster","Switzerland",1
+"Oyster","Taiwan",1
+"Oyster","Thailand",1
+"Oyster","Turkey",1
+"Oyster","USA",1
+"Oyster","Vietnam",1
+"Perch/Sunfish","France",1
+"Perch/Sunfish","Germany",1
+"Perch/Sunfish","India",1
+"Perch/Sunfish","Kazakhstan",1
+"Perch/Sunfish","Malaysia",1
+"Perch/Sunfish","Mixed",1
+"Perch/Sunfish","Romania",1
+"Perch/Sunfish","Sweden",1
+"Perch/Sunfish","Vietnam",1
+"Pomfret","Malaysia",1
+"Pomfret","Serbia",1
+"Salmon","Chile",1
+"Salmon","Greece",1
+"Salmon","Greenland",1
+"Salmon","Iceland",1
+"Salmon","Netherlands",1
+"Salmon","Pacific Coast",1
+"Salmon","Poland",1
+"Salmon","Portugal",1
+"Salmon","Romania",1
+"Salmon","Slovakia",1
+"Salmon","Sweden",1
+"Salmon","Switzerland",1
+"Salmon","United Kingdom",1
+"Scallop","Germany",1
+"Scallop","Norway",1
+"Scallop","Poland",1
+"Scallop","Singapore",1
+"Scallop","Sweden",1
+"Sea cucumber/Urchin","Malta",1
+"Sea cucumber/Urchin","Mauritius",1
+"Sea cucumber/Urchin","Mixed",1
+"Seabass/Sea Bream","Bay of Bengal",1
+"Seabass/Sea Bream","Croatia",1
+"Seabass/Sea Bream","Greece",1
+"Seabass/Sea Bream","Gulf of Thailand",1
+"Seabass/Sea Bream","Israel",1
+"Seabass/Sea Bream","Japan",1
+"Seabass/Sea Bream","Kazakhstan",1
+"Seabass/Sea Bream","Kuwait",1
+"Seabass/Sea Bream","Mauritius",1
+"Seabass/Sea Bream","Mediterranean Sea",1
+"Seabass/Sea Bream","Oman",1
+"Seabass/Sea Bream","Romania",1
+"Seabass/Sea Bream","Serbia",1
+"Seabass/Sea Bream","Thailand",1
+"Seabass/Sea Bream","Vietnam",1
+"Seaweed/Algae","Germany",1
+"Seaweed/Algae","India",1
+"Seaweed/Algae","Indonesia",1
+"Seaweed/Algae","Ireland",1
+"Seaweed/Algae","Malaysia",1
+"Seaweed/Algae","Mediterranean Sea",1
+"Seaweed/Algae","New Zealand",1
+"Seaweed/Algae","Sweden",1
+"Shrimp/Prawn","Egypt",1
+"Shrimp/Prawn","Germany",1
+"Shrimp/Prawn","Gulf of Mannar",1
+"Shrimp/Prawn","Indonesia",1
+"Shrimp/Prawn","Iran",1
+"Shrimp/Prawn","Romania",1
+"Shrimp/Prawn","Sweden",1
+"Shrimp/Prawn","Switzerland",1
+"Shrimp/Prawn","Taiwan",1
+"Shrimp/Prawn","Thailand",1
+"Shrimp/Prawn","Vietnam",1
+"Snakehead","Cambodia",1
+"Snakehead","India",1
+"Snapper","Iran",1
+"Snapper","Mixed",1
+"Tilapia","Brazil",1
+"Tilapia","France",1
+"Tilapia","Germany",1
+"Tilapia","Indonesia",1
+"Tilapia","Iran",1
+"Tilapia","Kuwait",1
+"Tilapia","Malawi",1
+"Tilapia","Mediterranean Sea",1
+"Tilapia","Netherlands",1
+"Tilapia","Saudi Arabia",1
+"Tilapia","Senegal",1
+"Tilapia","Tanzania",1
+"Tilapia","Vietnam",1
+"Trout","France",1
+"Trout","Malaysia",1
+"Trout","Mixed",1
+"Trout","Spain",1
+"Whelk/Abalone/Other Gastropods","Oman",1
+"Whelk/Abalone/Other Gastropods","Romania",1
+"Whelk/Abalone/Other Gastropods","Thailand",1
+"Whelk/Abalone/Other Gastropods","USA",1
+"Whelk/Abalone/Other Gastropods","Vietnam",1
